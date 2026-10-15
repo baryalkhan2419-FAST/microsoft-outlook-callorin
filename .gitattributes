@@ -1,0 +1,12 @@
+# Generated on 2026-11-18
+node_modules/* linguist-vendored
+Cargo.lock linguist-generated
+
+*.ts linguist-detectable
+*.woff binary
+public/** linguist-vendored
+
+vendor/* linguist-vendored
+src/** linguist-detectable
+*.ico binary
+package-lock.json linguist-generated
